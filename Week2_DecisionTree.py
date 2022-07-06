@@ -5,7 +5,6 @@
 # For ANY questions/problems/help, email me: arislaza@csd.auth.gr
 # =============================================================================
 
-
 # From sklearn, we will import:
 # 'datasets', for our data
 # 'metrics' package, for measuring scores
